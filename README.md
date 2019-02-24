@@ -23,4 +23,4 @@ The assignment asked break three differnt hashes:
 
 
 <h4> Notes </h3> 
-<p> This code is far longer than it should be. I did not refactor the code. Methods should be created to keep from having repeated code. </p>
+<p> *This code is far longer than it should be. I did not refactor the code. Methods should be created to keep from having repeated code.* </p>
