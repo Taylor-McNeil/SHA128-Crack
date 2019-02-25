@@ -16,7 +16,7 @@ Using the script is really easy. </br>
 
 * Open the terminal or cmd
 * Naviagate to where you cloned or downloaded the respositry.
-* Type python SHA128-Crack 'input the hash here' (no need for quotes)
+* Type ```python python SHA128-Crack 'input the hash here' ``` (no need for quotes)
 * Note: If you decide to use a salted hash, input the hash to break first then the salt word.
 ```python
 python SHA128-Crack ece4bb07f2580ed8b39aa52b7f7f918e43033ea1 f0744d60dd500c92c0d37c16174cc58d3c4bdd8e
