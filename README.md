@@ -2,8 +2,8 @@
 
 <h2> Purpose: </h2>
 
-  This program was created to break SHA128 hashes and return the original password.
-  This program uses a list of the 1,000,0000 most common passwords.
+  This program was created to break SHA128 hashes and return the original password. <br/>
+  This program uses a list of the 1,000,0000 most common passwords. <br/>
   The original assignment required solving the problem using a brute force manner; However I decided to use a dictionary as an  optimization solution from the beginning.
   
 
