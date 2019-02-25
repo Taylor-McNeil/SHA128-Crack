@@ -1,9 +1,10 @@
 <h1> SHA128-Crack: </h1>
+Author: Taylor McNeil
 
 This program was created to break SHA128 hashes and return the original password. <br/>
 This program uses a list of the 1,000,0000 most common passwords. <br/>
 The original assignment required solving the problem using a brute force manner; However I decided to use a dictionary as an  optimization solution from the beginning.
-  
+!!Note: I wrote only wrote an optimized solution. I did not start with brute force loops.  
 
 
 <h3>Installation </h3>
