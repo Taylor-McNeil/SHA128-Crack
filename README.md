@@ -3,7 +3,7 @@ Author: Taylor McNeil
 
 This program was created to break SHA128 hashes and return the original password. <br/>
 This program uses a list of the 1,000,0000 most common passwords. <br/>
-The original assignment required solving the problem using a brute force manner; However I decided to use a dictionary as an  optimization solution from the beginning.
+The original assignment required solving the problem using a brute force manner; However I decided to use a dictionary as an  optimization solution from the beginning.</br>
 !!Note: I wrote only wrote an optimized solution. I did not start with brute force loops.  
 
 
@@ -22,6 +22,7 @@ Using the script is really easy. </br>
 ```python
 python SHA128-Crack ece4bb07f2580ed8b39aa52b7f7f918e43033ea1 f0744d60dd500c92c0d37c16174cc58d3c4bdd8e
 ```
+* The output will be the password if found, the total attempts and the total time since the start of the program
 
 <h3> Solutions </h3>
 
