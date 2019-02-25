@@ -14,7 +14,7 @@
 
 <h3> Solutions </h3>
 
-The assignment asked break three differnt hashes:
+The assignment asked break three different hashes:
   
 * Easy Hash: b7a875fc1ea228b9061041b7cec4bd3c52ab3ce3
 * Medium Hash: 801cdea58224c921c21fd2b183ff28ffa910ce31
@@ -23,4 +23,4 @@ The assignment asked break three differnt hashes:
 
 
 <h4> Notes </h3> 
-*This code is far longer than it should be. I did not refactor the code. Methods should be created to keep from having repeated code.* 
+_This code is far longer than it should be. I did not refactor the code. Methods should be created to keep from having repeated code._ 
