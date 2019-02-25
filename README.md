@@ -38,4 +38,4 @@ The Solutions are as follows:
 
 <h4> Notes </h3> 
 
-_This code is far longer than it should be. I did not refactor the code. Methods should be created to keep from having repeated code. As of 2/24/2019 there is not any handling for for if the user inputs the incorrect arguments._ 
+_This code is far longer than it should be. I did not refactor the code. Methods should be created to keep from having repeated code. As of 2/24/2019 there is not any handling for if the user inputs the incorrect arguments._ 
